@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "77331432237",
+    "project_id": "codefestandroid2021-e4bcc",
+    "storage_bucket": "codefestandroid2021-e4bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77331432237:android:85004118da402bdb5209a4",
+        "android_client_info": {
+          "package_name": "com.example.codefestfinalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77331432237-cq5gsgratio4qehrvhnm9vhoqiofbrk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codefestfinalapplication",
+            "certificate_hash": "fe241827f721429c30936e167a348d962b3b2271"
+          }
+        },
+        {
+          "client_id": "77331432237-5vl13jlne03epd6e3tml60taqg5oa7e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsKW7QxPXQ5Rxt1Nf4pUjmUa4pdrKtHJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77331432237-5vl13jlne03epd6e3tml60taqg5oa7e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
